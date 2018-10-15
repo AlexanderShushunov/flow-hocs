@@ -24,6 +24,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "flow-bin": "^0.83.0"
+    "flow-bin": "^0.83.0",
+    "flow-typed": "^2.5.1",
+    "react-test-renderer": "^16.5.2"
   }
 }
